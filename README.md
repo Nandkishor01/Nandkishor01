@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 
-![Nandkishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandkishor01&theme=highcontrast&show_icons=true)
+![Nandkishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandkishor001&theme=highcontrast&show_icons=true)
 
 
 <!---
