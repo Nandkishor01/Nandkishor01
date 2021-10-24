@@ -16,7 +16,7 @@
       
 - 👯 I’m looking to collaborate on everyone😄
 
-- 💬 Ask me about nothing
+- 💬 Ask me about anything
 
 - 📫 How to reach me: https://github.com/Nandkishor01/
 
