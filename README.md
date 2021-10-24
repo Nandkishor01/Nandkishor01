@@ -3,6 +3,7 @@
    
 </div>
 
+<img align="right" src="https://github.com/Nandkishorr01/Nandkishor01/blob/master/dev.gif" alt="Coder GIF" width="420" height="330">
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
