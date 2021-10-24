@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning Python & JavaScript
       
-- 👯 I’m looking to collaborate on everyone😄
+- 👯 I’m looking to collaborate with everyone😄
 
 - 💬 Ask me about anything
 
