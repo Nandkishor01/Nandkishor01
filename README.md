@@ -7,7 +7,7 @@
 </div>   
 <br>
 
-<div align="left">
+<div align="right">
    <div>
 <img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/dev.gif" alt="Coder gif" width="420" height="330">
 </div> 
