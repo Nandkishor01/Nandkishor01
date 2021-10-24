@@ -1,5 +1,3 @@
-<p align="center">
-
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👋 Hi, I’m @Nandkishor01
 - 🌱 I’m currently learning **Python**
@@ -25,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
 </p>
 <!---
 Nandkishor01/Nandkishor01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
