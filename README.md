@@ -2,8 +2,9 @@
    <h1>Hi there, I'm <a href="https://github.com/Nandkishor01">Nandkishor</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
-
+<div align="center">
 <img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/dev.gif" alt="Coder GIF" width="450" height="330">
+</div>   
 <br>
 
 <p align="center" >
