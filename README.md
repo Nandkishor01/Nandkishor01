@@ -8,9 +8,21 @@
 <br>
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
    </a>
-   
+ <p align="left">
+  
+- 🌱 I’m currently learning Python & JavaScript
+      
+- 👯 I’m looking to collaborate on everyone😄
+
+- 💬 Ask me about nothing
+
+- 📫 How to reach me: https://github.com/Nandkishor01/
+
+- ⚡ Fun fact: I'm a student + dev
+</p>
+
    
 ## - Languages and Tools...
 
