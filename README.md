@@ -4,9 +4,9 @@
 - 📫 How to reach me ...
 
 
+<p align="center" >
 ![Nandkishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandkishor01&theme=highcontrast&show_icons=true)
-
-
+</p>
 ### - Languages and Tools...
 
 <p align="center">
