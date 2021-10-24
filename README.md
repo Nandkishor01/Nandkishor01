@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: https://github.com/Nandkishor01/
 
-- ⚡ Fun fact: I'm a student + dev
+- ⚡ Fun fact: I'm a student + Noobie Developer
 </p>
 
    
