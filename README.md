@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-<img align="center" src="" alt="Banner" width="1000" height="330">
+<img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/dev.gif" alt="Coder gif" width="420" height="330">
 </div> 
 <p align="right" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
