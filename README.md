@@ -5,7 +5,6 @@
 
 <img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/dev.gif" alt="Coder GIF" width="450" height="330">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandkishor01)](https://github.com/Nandkishor01/github-readme-stats)
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
