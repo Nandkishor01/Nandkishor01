@@ -11,7 +11,7 @@
 <img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/dev.gif" alt="Coder gif" width="420" height="330">
 </div> 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
    </a>
 </div> 
 ## - Languages and Tools...
