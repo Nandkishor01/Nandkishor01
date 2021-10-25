@@ -18,7 +18,8 @@
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: https://github.com/Nandkishor01
+- 📫 How to reach me: <a href="https://github.com/Nandkishor01"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+
 
 - ⚡ Fun fact: I'm a student + Noobie Developer
 </p>
