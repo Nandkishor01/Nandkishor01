@@ -7,7 +7,7 @@
 </div>   
 <br>
 
-## Social
+## 📫 Social
 
 <a href="https://discord.gg/g9zNMZBk">
   <img align="left" alt="Nandkishor's Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -21,10 +21,15 @@
   <img align="left" alt="Nandkishor" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-<div>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
-   </a>
+<a href="https://instagram.com/nandkishorsinghrajawat69/">
+  <img align="left" alt="Nandkishor" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
+</a>
+
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
+</a>
+
    <br>
 
  <p align="left">
