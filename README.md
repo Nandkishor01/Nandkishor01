@@ -6,10 +6,27 @@
 <img align="center" src="https://github.com/Nandkishor01/Nandkishor01/blob/main/Welcome%20I'am%20Nandkishor.png" alt="Banner" width="1000" height="330">
 </div>   
 <br>
+
+## Social
+
+<a href="https://discord.gg/g9zNMZBk">
+  <img align="left" alt="Nandkishor's Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<a href="https://twitter.com/Nandkis03175812/">
+  <img align="left" alt="Nandkishor" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://github.com/Nandkishor01/">
+  <img align="left" alt="Nandkishor" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nandkishor01&&show_icons=true&theme=radical" />
    </a>
+   <br>
+
  <p align="left">
   
 - 🌱 I’m currently learning Python & JavaScript
@@ -18,13 +35,10 @@
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: <a href="https://github.com/Nandkishor01"><img alt="GitHub" height="32" width="32" src="github.svg"></a>
-
 
 - ⚡ Fun fact: I'm a student + Noobie Developer
 </p>
-
-   
+  
 ## - Languages and Tools...
 
 <p align="center">
@@ -38,6 +52,9 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
+<br>
+   
 <!---
 Nandkishor01/Nandkishor01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
