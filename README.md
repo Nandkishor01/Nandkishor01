@@ -41,7 +41,7 @@
 - 💬 Ask me about anything
 
 
-- ⚡ Fun fact: I'm a student + Noobie Developer
+- ⚡ Fun fact: I'm a student 
 </p>
   
 ## - Languages and Tools...
